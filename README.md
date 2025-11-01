@@ -1,31 +1,31 @@
-# 🚨 NewLauncher Virus - Complete Removal Guide
+# 🚨 NewLauncher Вирус - Полное руководство по удалению
 
-> **⚠️ CRITICAL SECURITY ALERT**: NewLauncher is a dangerous Trojan malware, not legitimate software!
+> **⚠️ КРИТИЧЕСКАЯ УГРОЗА БЕЗОПАСНОСТИ**: NewLauncher - это опасный троян, а не легитимное ПО!
 
-![Security Warning](https://img.shields.io/badge/Security-Critical-red)
-![Malware](https://img.shields.io/badge/Malware-Trojan-orange)
-![Status](https://img.shields.io/badge/Status-Active-important)
+![Предупреждение](https://img.shields.io/badge/Безопасность-Критическая-red)
+![Вредоносное ПО](https://img.shields.io/badge/Вредоносное_ПО-Троян-orange)
+![Статус](https://img.shields.io/badge/Статус-Активно-important)
 
-## 🔍 Detection Evidence
+## 🔍 Подтверждения обнаружения
 
-| Antivirus | Detection Name | Severity |
-|-----------|----------------|----------|
-| **Kaspersky** | `HEUR:Trojan MultiMisslinka` | 🔴 CRITICAL |
-| **Kaspersky** | `PDM:Trojan.Win32.Bazon.a` | 🔴 CRITICAL |
-| **Windows Defender** | `Trojan:Win32/Bazon!rfn` | 🔴 CRITICAL |
+| Антивирус | Название угрозы | Уровень опасности |
+|-----------|----------------|-------------------|
+| **Kaspersky** | `HEUR:Trojan MultiMisslinka` | 🔴 КРИТИЧЕСКИЙ |
+| **Kaspersky** | `PDM:Trojan.Win32.Bazon.a` | 🔴 КРИТИЧЕСКИЙ |
+| **Windows Defender** | `Trojan:Win32/Bazon!rfn` | 🔴 КРИТИЧЕСКИЙ |
 
-## 🎯 What is NewLauncher?
+## 🎯 Что такое NewLauncher?
 
-**NewLauncher is a sophisticated Trojan malware** that disguises itself as legitimate software while performing malicious activities in the background.
+**NewLauncher - это сложный троян**, который маскируется под легитимное ПО while выполняя вредоносные действия в фоне.
 
-### 🚫 Malicious Activities
-- ✅ **Steals personal data** and credentials
-- ✅ **Unauthorized cryptocurrency mining** (uses your PC resources)
-- ✅ **Installs additional malware**
-- ✅ **Creates backdoors** for remote access
-- ✅ **Slows down system performance** dramatically
+### 🚫 Вредоносная активность
+- ✅ **Крадет личные данные** и учетные записи
+- ✅ **Несанкционированный майнинг** (использует ресурсы вашего ПК)
+- ✅ **Устанавливает дополнительное вредоносное ПО**
+- ✅ **Создает бэкдоры** для удаленного доступа
+- ✅ **Сильно замедляет работу системы**
 
-## 💰 The Dirty Business Model
+## 💰 Грязная бизнес-модель
 
-### 🤥 Corrupt Influencer Marketing
-NewLauncher creators are known to use **unethical promotion tactics**:
+### 🤥 Коррумпированный маркетинг через блогеров
+Создатели NewLauncher используют **неэтичные методы продвижения**:
